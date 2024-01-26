@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antarcticdev&label=Profile%20views&color=0e75b6&style=flat" alt="antarcticdev" /> </p>
 
-- 🔭 I’m currently working on [Antarctic's Iceberg](soon)
+- 🔭 I’m currently working on [Antarctic's Iceberg](https://antarctic.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
