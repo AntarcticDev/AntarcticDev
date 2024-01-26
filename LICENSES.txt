@@ -1,9 +1,7 @@
-## The next contents are the licenses I use, they are all signed with PGP.
+The next contents are the licenses I use, they are all signed with PGP. Use this file to see what they are and check using OpenPGP if all the licenses really are true.
 
-<hr/>
+- Antarctic's Iceberg Community License -
 
-**Antarctic's Iceberg Community License**
-<br>
 Copyright 2024 Antarctic's Iceberg
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -27,5 +25,3 @@ Additional Rules:
 5. Contributions to the software are welcome, but by submitting a contribution, you agree to license the contribution under the same license terms as the original software.
 
 Please refer to the full Apache License, Version 2.0 for the complete set of terms and conditions.
-
-<hr/>
